@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atersel.github.io/sitemap.html.gz
+Sitemap: https://atersel.github.io/app/sitemap.html.gz
+Sitemap: https://atersel.github.io/assets/sitemap.html.gz
+Sitemap: https://atersel.github.io/css/sitemap.html.gz
+Sitemap: https://atersel.github.io/data/sitemap.html.gz
+Sitemap: https://atersel.github.io/includes/sitemap.html.gz
+Sitemap: https://atersel.github.io/item/sitemap.html.gz
+Sitemap: https://atersel.github.io/src/sitemap.html.gz
